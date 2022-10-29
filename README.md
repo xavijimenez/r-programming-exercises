@@ -1,0 +1,1 @@
+This repository contains a collection of programming exercises from various sources.
